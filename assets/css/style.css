@@ -1,0 +1,100 @@
+h1 h2 h3{
+	font-family: 'Oswald', sans-serif;
+}
+
+header {
+	background-image: url('../img/bg_hero.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+	padding-bottom: 10rem;
+}
+
+footer {
+	background-color: #660066;
+}
+
+nav{
+	background-color: #660066;
+}
+
+.card-footer{
+	font-size: 1em;
+
+}
+
+a{
+	color: #fff;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.footer {
+	text-align: center;
+	color: #fff;
+	margin-top: 35px;
+	font-family: 'Oswald';
+}
+
+.card-deck-2{
+	background-color: #660066;
+	height: 75rem;
+}
+
+.col-md-6{
+	margin: 0 auto;
+}
+
+.card-deck{
+	margin-bottom: 60px;
+	margin-top: 60px;
+}
+.hero{
+	height: 50rem;
+}
+
+.card-body{
+	font-family: 'Oswald', sans-serif;"
+	text-align: center;
+}
+.contacto{
+	margin-top: 50px;
+}
+.elem {
+			text-align: center;
+			color: white;
+		}
+
+.elem:after {
+	border-bottom: 3px solid currentColor;
+	content: '';
+	display: block;
+	margin: 50px auto;
+	width: 80px;
+}
+
+active{
+	color: red;
+}
+
+.carousel-item img {
+	width: 42%;
+	float: left;
+	padding: 0 10%;
+}
+
+.carousel-indicators{
+	position: absolute;
+	bottom: -45%;
+
+}
+.carousel-indicators li{
+	border-radius: 50%;
+	background-color: #373a3c;
+	width: 20px;
+	height: 20px;
+	flex: 0 1 auto;
+	margin-left: 3px;
+	text-align: center;
+	margin-top: 10px;
+}
